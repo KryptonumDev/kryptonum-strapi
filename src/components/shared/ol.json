@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_ols",
+  "info": {
+    "displayName": "ol"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

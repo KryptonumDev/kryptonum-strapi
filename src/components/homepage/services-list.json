@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_homepage_services_lists",
+  "info": {
+    "displayName": "List",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
